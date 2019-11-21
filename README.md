@@ -20,3 +20,9 @@ However, running the provided notebooks will provide the csv's.
 We experimented with dataframe reduction at various places in different notebooks.
 It was used to preprocess data, or before fitting a model.
 The code for size reduction can be found in the 'Predicting with linear SVR' notebook.
+
+
+#### Sources
+
+Code for the DataFrame size reduction as well as for Figure 2 in the report were derived from the following source:
+https://www.kaggle.com/caesarlupum/ashrae-start-here-a-gentle-introduction
